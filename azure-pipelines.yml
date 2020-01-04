@@ -19,3 +19,11 @@ steps:
   displayName: 'Run a multi-line script'
 
 - script: python -mhtmllib "sample.html"
+
+- script:
+
+
+      print('Hello world 1')
+
+
+      print('KLU')
